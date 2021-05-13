@@ -1,10 +1,8 @@
 import './App.scss';
 import Stars from './Components/Stars/Stars';
 
-function App() {
+export default function App() {
   return (
     <Stars count={5} />
   );
 }
-
-export default App;
