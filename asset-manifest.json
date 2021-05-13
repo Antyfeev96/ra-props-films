@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ra-props-films/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/ra-props-films/static/js/main.d9ad94ce.chunk.js",
-    "main.js.map": "/ra-props-films/static/js/main.d9ad94ce.chunk.js.map",
+    "main.js": "/ra-props-films/static/js/main.36db8dc0.chunk.js",
+    "main.js.map": "/ra-props-films/static/js/main.36db8dc0.chunk.js.map",
     "runtime-main.js": "/ra-props-films/static/js/runtime-main.be48c9ca.js",
     "runtime-main.js.map": "/ra-props-films/static/js/runtime-main.be48c9ca.js.map",
     "static/js/2.0b3aea2f.chunk.js": "/ra-props-films/static/js/2.0b3aea2f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.be48c9ca.js",
     "static/js/2.0b3aea2f.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.d9ad94ce.chunk.js"
+    "static/js/main.36db8dc0.chunk.js"
   ]
 }
