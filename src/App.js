@@ -1,8 +1,9 @@
 import './App.scss';
+import Stars from './Components/Stars/Stars';
 
 function App() {
   return (
-    <div></div>
+    <Stars count={5} />
   );
 }
 
